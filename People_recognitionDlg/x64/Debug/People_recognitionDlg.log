@@ -1,0 +1,19 @@
+﻿生成启动时间为 2019/5/19 13:24:21。
+     1>项目“G:\Microsft_Visual_Studio\Visuak_Studio_2015_Projects\People_recognitionDlg\People_recognitionDlg\People_recognitionDlg.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Microsft_Visual_Studio\vs2015_install\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Debug\People_recognitionDlg.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt People_recognitionDlgDlg.cpp
+         People_recognitionDlgDlg.cpp
+       Link:
+         D:\Microsft_Visual_Studio\vs2015_install\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Microsft_Visual_Studio\Visuak_Studio_2015_Projects\People_recognitionDlg\x64\Debug\People_recognitionDlg.exe" /INCREMENTAL /NOLOGO opencv_aruco340d.lib opencv_bgsegm340d.lib opencv_bioinspired340d.lib opencv_calib3d340d.lib opencv_ccalib340d.lib opencv_core340d.lib opencv_datasets340d.lib opencv_dnn340d.lib opencv_dpm340d.lib opencv_face340d.lib opencv_features2d340d.lib opencv_flann340d.lib opencv_fuzzy340d.lib opencv_highgui340d.lib opencv_img_hash340d.lib opencv_imgcodecs340d.lib opencv_imgproc340d.lib opencv_line_descriptor340d.lib opencv_ml340d.lib opencv_objdetect340d.lib opencv_optflow340d.lib opencv_phase_unwrapping340d.lib opencv_photo340d.lib opencv_plot340d.lib opencv_reg340d.lib opencv_rgbd340d.lib opencv_saliency340d.lib opencv_shape340d.lib opencv_stereo340d.lib opencv_stitching340d.lib opencv_structured_light340d.lib opencv_superres340d.lib opencv_surface_matching340d.lib opencv_text340d.lib opencv_tracking340d.lib opencv_video340d.lib opencv_videoio340d.lib opencv_videostab340d.lib opencv_xfeatures2d340d.lib opencv_ximgproc340d.lib opencv_xobjdetect340d.lib opencv_xphoto340d.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\Microsft_Visual_Studio\vs2015_install\VC\Include\Manifest\dpiaware.manifest /Debug /PDB:"G:\Microsft_Visual_Studio\Visuak_Studio_2015_Projects\People_recognitionDlg\x64\Debug\People_recognitionDlg.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Microsft_Visual_Studio\Visuak_Studio_2015_Projects\People_recognitionDlg\x64\Debug\People_recognitionDlg.lib" /MACHINE:X64 x64\Debug\People_recognitionDlg.res
+         x64\Debug\CvvImage.obj
+         x64\Debug\Face_trainDlg.obj
+         x64\Debug\People_recognitionDlg.obj
+         x64\Debug\People_recognitionDlgDlg.obj
+         x64\Debug\Register_faceDlg.obj
+         x64\Debug\stdafx.obj
+         People_recognitionDlg.vcxproj -> G:\Microsft_Visual_Studio\Visuak_Studio_2015_Projects\People_recognitionDlg\x64\Debug\People_recognitionDlg.exe
+     1>已完成生成项目“G:\Microsft_Visual_Studio\Visuak_Studio_2015_Projects\People_recognitionDlg\People_recognitionDlg\People_recognitionDlg.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:24.47
